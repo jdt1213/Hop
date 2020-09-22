@@ -1,18 +1,27 @@
-
 <!DOCTYPE  html>
 <html lang = "en">
 
 <head>
 <title>  </title>
+<title>Blackquote Example</title>
 <meta charset = "utf-8">
 </head>
 
 <body>
-  
+
 <h1>Heading level 1</h1>
- 
+
+<h1>The power of the Web</h1>
+  <p>According to Tim Berners-Lee, the inventor of the World wide web, at https://www.w3.org/WAI/:</p>
+  <blockquote>
+    The power of the web is in its universality. Access by everyone regardless of disability is an essential aspect.
+  </blockquote>
+<h2>Heading level 2</h2>
+<h3>Heading level 3</h3> 
+<h4>Heading level 4</h4>
+<h5>Heading level 5</h5>
+<h6>Heading level 6</h6>
 
 
 </body
-
 </html>
